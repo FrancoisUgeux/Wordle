@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/be/he2b/atl/wordle/model/MessageFactory.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/g43335/atl/wordle/view/Help.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/g43335/atl/wordle/view/WordFrame.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/be/he2b/atl/wordle/model/Wordle.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/g43335/atl/wordle/view/Prompt.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/g43335/atl/wordle/view/LetterFrame.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/g43335/atl/wordle/view/NewGame.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/g43335/atl/wordle/view/GameGrid.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/g43335/atl/wordle/view/WordList.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/g43335/atl/wordle/view/NbGamePlayed.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/g43335/atl/wordle/view/PropositionField.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/be/he2b/atl/wordle/view/fx/App.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/be/he2b/atl/wordle/view/fx/WordleView.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/be/he2b/atl/wordle/view/fx/LoginController.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/g43335/atl/wordle/view/Title.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/be/he2b/atl/wordle/view/fx/login.fxml</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/g43335/atl/wordle/view/Score.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleClient/src/be/he2b/atl/client/AbstractClient.java</file>
+        </group>
+    </open-files>
+</project-private>

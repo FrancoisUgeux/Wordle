@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/dto/UserDto.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/dto/EntityDto.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/db/UserDB.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/server/ConnectionToClient.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/business/UserBusinessLogic.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/view/View.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/db/GameDB.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/wordle/view/console/WordleServerConsole.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/business/AdminFacade.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/g43335/atl/wordle/model/Game.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/wordle/server/model/Users.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/dto/GameDto.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/business/GameBusinessLogic.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/business/AdminModel.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/controller/Controller.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/specification/UserSpecification.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/server/AbstractServer.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/db/DBManager.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/db/SequenceDB.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/wordle/server/model/MessageFactory.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/exception/BusinessException.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/exception/DtoException.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/g43335/atl/wordle/model/ScoreTable.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/wordle/server/model/WordleServer.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/g43335/atl/wordle/model/WordUtil.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/specification/GameSpecification.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/be/he2b/atl/database/exception/DbException.java</file>
+            <file>file:/D:/Cours/2022-2023/Java/Projet/atlir5_j_2022_43335/WordleServer/src/g43335/atl/wordle/model/Dictionary.java</file>
+        </group>
+    </open-files>
+</project-private>
